@@ -28,7 +28,7 @@
  <a href="https://api.whatsapp.com/send?phone=19995498700" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" height="30" width="110" /></a>
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" width="110" align ="center">](mailto:felippemu@hotmail.com)
 
-   ![Snake animation](https://github.com/TomasAlric/TomasAlric/blob/output/github-contribution-grid-snake.svg) 
+   ![Snake animation](https://github.com/felippediniz00/felippediniz00/blob/output/github-contribution-grid-snake.svg) 
 
 
 
