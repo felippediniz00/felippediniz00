@@ -1,16 +1,44 @@
-### Hi there 👋
+<h1 align="center">Olá 💻, muito prazer me chamo Felippe Diniz! </h1>
 
-<!--
-**felippediniz00/felippediniz00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Cursando Análise e Desenvolvimento de Sistemas  
+- 🌱 Estudando Golang |
+- 💬 Apaixonado por tecnologia! 
+- 📫 Email: felippemu@hotmail.com        
+- 😄 Pronouns: ele/dele
 
-Here are some ideas to get you started:
+<div>
+  <img height="160em"   align="center" src="https://github-readme-stats.vercel.app/api?username=felippediniz00&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true">
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felippediniz00&&layout=compact&hide=shell&theme=highcontrast">
+ </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <div>
+  <h3 align="left">Linguagens e Ferramentas:</h3>
+ </div>
+<div>
+  <img align = "center" src="https://i.imgur.com/g6Wg8Ey.png" alt="java" width="40" height="40"/> 
+  <img align = "center" src="https://i.imgur.com/5pIevzW.png" alt="git" width="35" height="35"/> 
+  <img align = "center" src="https://i.imgur.com/IhS1TUg.png" alt="aws" width="50" height="50"/> 
+</div>
+
+<div>
+  <h3 align="left">Siga-me nas redes sociais :alien: </h3>
+<p align="left">
+
+ <a href="https://www.linkedin.com/in/felippediniz/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" width="110" /></a>
+ <a href="https://api.whatsapp.com/send?phone=19995498700" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" height="30" width="110" /></a>
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" width="110" align ="center">](mailto:felippemu@hotmail.com)
+
+   ![Snake animation](https://github.com/TomasAlric/TomasAlric/blob/output/github-contribution-grid-snake.svg) 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
