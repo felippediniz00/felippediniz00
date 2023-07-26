@@ -7,7 +7,7 @@
 - 😄 Pronomes: ele/dele
 
 <div>
-  <img height="160em"   align="center" src="https://github-readme-stats.vercel.app/api?username=felippediniz00&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true">
+  <img height="160em"   align="center" src="https://github-readme-stats.vercel.app/api?username=felippediniz00&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=false">
   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felippediniz00&&layout=compact&hide=shell&theme=highcontrast">
  </div>
 
