@@ -1,4 +1,4 @@
-<h1 align="center">Olá 💻, muito prazer me chamo Felippe Diniz! </h1>
+<h1 align="center">Olá, muito prazer me chamo Felippe Diniz! 💻 </h1>
 
 - 🔭 Cursando Análise e Desenvolvimento de Sistemas  
 - 🌱 Estudando Golang |
