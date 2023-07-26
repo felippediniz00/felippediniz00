@@ -20,6 +20,7 @@
   <img align = "center" src="https://i.imgur.com/g6Wg8Ey.png" alt="java" width="40" height="40"/> 
   <img align = "center" src="https://i.imgur.com/5pIevzW.png" alt="git" width="35" height="35"/> 
   <img align = "center" src="https://i.imgur.com/IhS1TUg.png" alt="aws" width="50" height="50"/> 
+  <img align = "center" src="https://i.imgur.com/eKV8V75.png" alt="python" width="40" height="40"/>
 </div>
 
 ##
