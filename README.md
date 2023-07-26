@@ -34,7 +34,7 @@
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" width="110" align ="center">](mailto:felippemu@hotmail.com)
 
 
-![Snake animation](https://github.com/felippediniz00/felippediniz00/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/felippediniz00/felippediniz00/blob/output/github-contribution-grid-snake.svg)
 
 
 
