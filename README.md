@@ -11,8 +11,10 @@
   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felippediniz00&&layout=compact&hide=shell&theme=highcontrast">
  </div>
 
-
-
+<div>
+  <img align="right" alt="Alien" width="200" height="200" src=media/ezgif.com-gif-to-mp4.gif> 
+</div>
+  
  <div>
   <h3 align="left">Linguagens e Ferramentas:</h3>
  </div>
